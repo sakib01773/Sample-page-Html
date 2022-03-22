@@ -1,0 +1,78 @@
+body{
+    margin:0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    background-color:#1C3180;
+    color: white;
+    /* height: 150px; */
+    padding:30px; 
+    text-align: center;
+    font-size: 64px;
+    font-weight: 700;
+    border-bottom: 9px solid #FE630E;
+}
+.header h1{
+    margin:0px;
+}
+
+.practice{
+    color: black;
+    padding: 20px;
+    width: 1000px;
+    margin: 0px auto;
+}
+
+h2{      
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0px;
+    padding: 50px 0px 20px 9px;
+
+}
+
+
+p{
+    font-weight: 400;
+    font-size: 24px;
+    padding: 5px;
+}
+
+a{
+    color: #FE630E;
+}
+
+.last{
+    background-color:#1C3180 ;
+}
+.knodelge{
+    width: 1000px;
+    margin: 0px auto;
+    padding: 20px;
+    color: white;
+
+}
+.knodelge h2{
+    color: #FE630E;
+    
+}
+
+.button{
+    background-color: #FE630E;
+    color:white;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+    font-style: 24px;
+    font-weight: 700;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button2{
+    background-color: white;
+    color:#1C3180;
+    
+}
